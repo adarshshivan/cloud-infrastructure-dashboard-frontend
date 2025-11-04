@@ -54,7 +54,7 @@ This project replicates how real cloud infrastructure dashboards work — built 
 
 Dashboard Preview
 
-![After Output Screenshot](./images/Simulated output.png)
+![After Output Screenshot](./images/Simulated_output.png)
 
 
 ---
