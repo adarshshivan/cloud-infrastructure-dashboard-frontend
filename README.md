@@ -59,10 +59,15 @@ Dashboard Preview
 
 ---
 
-## 🔗 Related Projects
+## 🔗 Related Repositories
 
 ### 👉 Backend Repository:
 
 🔗 [Cloud Infrastructure Dashboard Backend](https://github.com/adarshshivan/cloud-infrastructure-dashboard-backend)
 
 ---
+
+### ☁️ Part of the CloudOps Suite
+
+
+
